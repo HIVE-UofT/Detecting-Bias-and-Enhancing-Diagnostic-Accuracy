@@ -10,7 +10,10 @@ Our key contributions in this work are threefold:
 1. **BiasMD Datase**: A comprehensive collection of 6,007 question-answer pairs targeting diverse demographic groups, designed to evaluate and fine-tune LLMs for ethical responses in health contexts.
 2. **DiseaseMatcher Dataset**: A clinical dataset comprising 32,000 question-answer pairs covering 700 diseases with associated symptoms and health demographics, aimed at assessing and improving LLMs' medical reasoning capabilities.
 3. **EthiClinician Model**: A fine-tuned model based on the ChatDoctor framework, achieving state-of-the-art results surpassing GPT-4 on our datasets, demonstrating enhanced ethical and accurate responses in health-related queries.
-
+## BiasMD Overiew
+![BiasMD (2)](https://github.com/user-attachments/assets/18bbdc80-681f-4ff3-b6c3-d2add86618d4)
+## ChatDoctor Overiew
+![BiasMD (3)](https://github.com/user-attachments/assets/84851eba-bf8a-4968-bb84-eb5b95500406)
 
 ## Contact
 For any questions or inquiries, please feel free to reach out to us at pardis.zahraei01 [at] sharif [dot] edu
