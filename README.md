@@ -1,4 +1,4 @@
-# Mitigating-Bias-and-Enhancing-Diagnostic-Accuracy
+# Mitigating-Bias-and-Enhancing-Diagnostic-Accuracy 
 ## Introduction
 Welcome to the GitHub repository for our paper, "Mitigating Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare Communication". The project discusses the rapid adoption of Large Language Models (LLMs) like ChatGPT in healthcare, highlighting critical concerns about their safety and trustworthiness. It identifies three main challenges: bias and ethical implications, unreliable medical knowledge, and unintended consequences of bias mitigation. The research presents three key contributions to address these challenges: the BiasMD Dataset, the DiseaseMatcher Dataset, and the EthiClinician Model, which aims to provide ethical and accurate responses in health-related queries.
 
@@ -15,6 +15,4 @@ Our key contributions in this work are threefold:
 ## ChatDoctor Overiew
 ![BiasMD (3)](https://github.com/user-attachments/assets/84851eba-bf8a-4968-bb84-eb5b95500406)
 
-## Contact
-For any questions or inquiries, please feel free to reach out to us at pardis.zahraei01 [at] sharif [dot] edu
 
