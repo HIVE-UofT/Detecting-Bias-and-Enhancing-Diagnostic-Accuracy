@@ -13,5 +13,8 @@ Our key contributions in this work are threefold:
 ## BiasMD Overiew
 ![BiasMD (5)](https://github.com/user-attachments/assets/1504e999-7a03-4460-9216-b1e036d2e442)
 
-## ChatDoctor Overiew
+## DiseaseMatcher Overiew
 ![BiasMD (6)](https://github.com/user-attachments/assets/887f0d79-3f7d-4ab0-9b26-0e9c1f8197ec)
+
+## DiseaseDecipher Overiew
+![BiasMD (13)](https://github.com/user-attachments/assets/037b370c-c74a-4517-b087-dc80854e6ab3)
