@@ -1,6 +1,7 @@
-# Uncovering Bias and Ethical Challenges in Diagnostic AI: A Focus on Large Language Models in Healthcare
+# Detecting Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare
+
 ## Introduction
-Welcome to the GitHub repository for our paper, "Uncovering Bias and Ethical Challenges in Diagnostic AI: A Focus on Large Language Models in Healthcare." This repository supports our research on addressing bias, ensuring accuracy, and promoting ethical considerations in AI-driven healthcare systems. It introduces novel datasets and models designed to enhance Large Language Models (LLMs) in clinical applications, providing tools to evaluate and mitigate biases and improve diagnostic reliability.
+Welcome to the GitHub repository for our paper, "Detecting Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare." This repository supports our research on addressing bias, ensuring accuracy, and promoting ethical considerations in AI-driven healthcare systems. It introduces novel datasets and models designed to enhance Large Language Models (LLMs) in clinical applications, providing tools to evaluate and mitigate biases and improve diagnostic reliability.
 
 ## Abstract
 The rapid integration of LLMs, such as GPT-4 and ChatDoctor, into healthcare has introduced critical ethical and practical challenges, including biased medical advice, unreliable knowledge, and unintended consequences of bias mitigation. This research aims to:
