@@ -29,5 +29,5 @@ Our key contributions in this work are threefold:
 ## DiseaseDecipher Overiew
 ![BiasMD (13)](https://github.com/user-attachments/assets/037b370c-c74a-4517-b087-dc80854e6ab3)
 
-## RAF Model Overiew
+## RAG Model Overiew
 ![Copy of Rising Stars (48)](https://github.com/user-attachments/assets/6de00f5b-e996-45ba-9e13-64be65172aba)
